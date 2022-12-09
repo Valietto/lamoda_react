@@ -1,0 +1,16 @@
+.selectors-container {
+    display: flex;
+    gap: 15px;
+    margin: 8px 0;
+}
+
+.selector {
+    border: 1px solid black;
+    padding: 10px 8px;
+    font-size: 20px;
+    background: rgb(227, 136, 218);
+}
+
+.selector.active {
+    border-color: rgb(86, 0, 101);
+}

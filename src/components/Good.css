@@ -1,0 +1,13 @@
+.card {
+    border: 1px solid rgb(144, 7, 98);
+}
+
+.card img {
+    max-width: 100%;
+}
+
+.card_content {
+    padding: 8px 16px;
+    font-size: 20px;
+
+}
